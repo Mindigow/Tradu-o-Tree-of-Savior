@@ -1,33 +1,33 @@
-SKILL_20150317_000001	Attack
-SKILL_20150317_000002	[Elite Kepa] 1 time, Physical, Poison Property, Strike
-SKILL_20150317_000003	[Rafflesia] Spread Poison
-SKILL_20150317_000004	[Rafflesia] Poison Bomb
-SKILL_20150317_000005	[Raffly] Physical, Strike, Poison Property, Attack 1 time
-SKILL_20150317_000006	[Raffly] Physical, Strike, Poison Property, Jump Attack 1 time
-SKILL_20150317_000007	[Puragi] Physical, Strike, Poison Property, Normal Attack 1 time
-SKILL_20150317_000008	[Puragi] Physical, Strike, Poison Property, Attack 1 time
-SKILL_20150317_000009	[Puragi] Physical, Strike, Poison Property, Stomp 1 time
-SKILL_20150317_000010	[Zigri] Normal Attack, Conical AoE
-SKILL_20150317_000011	[Zigri] Spinning Strike
-SKILL_20150317_000012	[Zigri] Jump and Stomping Shock
-SKILL_20150317_000013	[Fisherman] Physical, Strike, Ice Property, Strike with Fishing Rod
-SKILL_20150317_000014	[Fisherman] Magic, Buff, Magic, Buff Skill
-SKILL_20150317_000015	[Green Pokuborn] Physical, Pierce, Lightning Property, Horn Attack 1 time
-SKILL_20150317_000016	[Bushspider] Physical, Strike, Earth Property, Attack 1 time
-SKILL_20150317_000017	[Fragaras] Quick bite
-SKILL_20150317_000018	[Fragaras] Large Chomp
-SKILL_20150317_000019	[Fragaras] Normal Attack, Conical AoE
-SKILL_20150317_000020	Basic Normal Attack
-SKILL_20150317_000021	[Meduja] Magic, Magic, Lightning Property Attack 1 time
-SKILL_20150317_000022	[Gribaru] Physical, Slash, Lightning Property Attack 1 time
-SKILL_20150317_000023	[Gribaru] Physical, Slash, Lightning Property Knock-back Attack Attack 1 time
-SKILL_20150317_000024	[Bite] Physical, Pierce, Poison Property Attack 1 time,
-SKILL_20150317_000025	[Banshee] Magic, Magic, Ice Property, Breath Attack 1 time
-SKILL_20150317_000026	[Banshee] Magic, Magic, Ice Property, Ice Pike
-SKILL_20150317_000027	[Mini Griba] Physical, Strike, Lightning Property, Two-handed Strike 1 time
-SKILL_20150317_000028	[Big Griba] Physical, Strike, Lightning Property, Smash 1 time
-SKILL_20150317_000029	[Big Griba] Physical, Strike, Lightning Property,Spread poison 1 time
-SKILL_20150317_000030	[Big Griba] Physical, Strike, Lightning Property,Ground Smash 1 time
+SKILL_20150317_000001	Ataque
+SKILL_20150317_000002	[Elite Kepa] 1 vez, Físico, Propriedade Veneno, Batida
+SKILL_20150317_000003	[Rafflesia] Propagar de Veneno
+SKILL_20150317_000004	[Rafflesia] Bomba de Veneno
+SKILL_20150317_000005	[Raffly] Físico, Batida, Propriedade Veneno, Ataca 1 vez
+SKILL_20150317_000006	[Raffly] Físico, Batida, Propriedade Veneno, Ataque de Pulo 1 vez
+SKILL_20150317_000007	[Puragi] Físico, Batida, Propriedade Veneno, Ataque Normal 1 vez
+SKILL_20150317_000008	[Puragi] Físico, Batida, Propriedade Veneno, Ataca 1 vez
+SKILL_20150317_000009	[Puragi] Físico, Batida, Propriedade Veneno, Gira 1 vez
+SKILL_20150317_000010	[Zigri] Ataque Normal, Cônico AoE
+SKILL_20150317_000011	[Zigri] Batida Giratória
+SKILL_20150317_000012	[Zigri] Salta e Gira em Choque
+SKILL_20150317_000013	[Fisherman] Físico, Batida, Propriedade Gelo, Bate com vara de pesca
+SKILL_20150317_000014	[Fisherman] Magico, Buff, Magico, Buff Habilidade
+SKILL_20150317_000015	[Green Pokuborn] Físico, Perfurar, Propriedade Raio, Ataque com chifre 1 vez
+SKILL_20150317_000016	[Bushspider] Físico, Batida, Propriedade Terra, Ataca 1 vez
+SKILL_20150317_000017	[Fragaras] Mordida Rápida 
+SKILL_20150317_000018	[Fragaras] Grande Chomp
+SKILL_20150317_000019	[Fragaras] Ataque Normal, Cônico AoE
+SKILL_20150317_000020	Ataque Básico Normal
+SKILL_20150317_000021	[Meduja] Magico, Magico, Propriedade Raio Ataca 1 vez
+SKILL_20150317_000022	[Gribaru] Físico, Corte, Propriedade Raio Ataca 1 vez
+SKILL_20150317_000023	[Gribaru] Físico, Corte, Propriedade Raio Empurrar para trás Ataca 1 vez
+SKILL_20150317_000024	[Bite] Físico, Perfurar, Propriedade Veneno Ataca 1 vez,
+SKILL_20150317_000025	[Banshee] Magico, Magico, Propriedade Gelo, Sopro Ataca 1 vez
+SKILL_20150317_000026	[Banshee] Magico, Magico, Propriedade Gelo, Lança de Gelo
+SKILL_20150317_000027	[Mini Griba] Físico, Batida, Propriedade Raio, Duas mãos Bate 1 vez
+SKILL_20150317_000028	[Big Griba] Físico, Batida, Propriedade Raio, Esmaga 1 vez
+SKILL_20150317_000029	[Big Griba] Físico, Batida, Propriedade Raio, Espalha veneno 1 vez
+SKILL_20150317_000030	[Big Griba] Físico, Batida, Propriedade Raio, Esmagar o chão 1 vez
 SKILL_20150317_000031	[Haming] Physical, Strike, Lightning Property, Head Strike
 SKILL_20150317_000032	[Haming] Physical, Strike, Lightning Property, Counter Skill
 SKILL_20150317_000033	[Haming] Physical, Strike, Lightning Property, Jump and rotating attack
